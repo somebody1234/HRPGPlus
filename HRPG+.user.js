@@ -6,6 +6,7 @@
 // @include     http://heroesrpg.com/game.php*
 // @include     http://www.heroesrpg.com/game.php*
 // @version     1.1.6.27
+// @updateURL   http://cdn.rawgit.com/somebody1234/HRPGPlus/master/HRPG%2B.user.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // @grant       none
 // ==/UserScript==
